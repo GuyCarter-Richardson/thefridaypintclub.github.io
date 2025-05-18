@@ -7,4 +7,4 @@ title: Home
 
 We’re a group of good people who believe the weekend starts on Friday at the pub. Join us!
 
-![Pub photo](/assets/images/pint.jpg)
+![Pub photo](/assets/images/FridayPintClub1.jpg)
