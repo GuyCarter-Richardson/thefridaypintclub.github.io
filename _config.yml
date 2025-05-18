@@ -1,0 +1,20 @@
+title: My Jekyll Site
+description: A simple Jekyll site hosted on GitLab Pages.
+baseurl: "" # Leave empty for GitLab Pages at root
+url: "https://GuyCarter-Richardson.github.io"     # Leave empty unless using custom domain
+
+theme: minima
+
+# Enable GitLab Pages-specific build
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Navigation (if using in layouts)
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
