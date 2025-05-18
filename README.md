@@ -1,1 +1,0 @@
-# thefridaypintclub.github.io
