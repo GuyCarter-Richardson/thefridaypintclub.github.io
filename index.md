@@ -7,4 +7,4 @@ title: Home
 
 Established in 2025.
 
-![Pub photo](/assets/images/FridayPintClub1.jpg)
+<img src="/assets/images/FridayPintClub1.jpg" alt="Pint photo" class="featured-pint" />
