@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 
-# Welcome to the Friday Pint Club 🍻
+# Welcome to The Friday Pint Club 🍻
 
-We’re a group of good people who believe the weekend starts on Friday at the pub. Join us!
+Established in 2025.
 
 ![Pub photo](/assets/images/FridayPintClub1.jpg)
