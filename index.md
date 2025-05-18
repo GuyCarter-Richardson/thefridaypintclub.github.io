@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Jekyll Site
+# Welcome to the Friday Pint Club 🍻
 
-This is a minimal example site built with Jekyll and hosted on GitLab Pages.
+We’re a group of good people who believe the weekend starts on Friday at the pub. Join us!
 
-![Welcome](/assets/images/example.jpg)
+![Pub photo](/assets/images/pint.jpg)

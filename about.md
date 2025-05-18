@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
-# About This Site
+# About Us
 
-This site was generated using [Jekyll](https://jekyllrb.com) and deployed on [GitLab Pages](https://pages.gitlab.io/).
+The Friday Pint Club meets every Friday evening at a rotating pub. No agenda. Just pints.
+
+If you're interested in joining, just show up!
