@@ -19,3 +19,5 @@ nav:
     url: "/pubs/"
   - title: "Pints"
     url: "/pints/"
+  - title: "(In)Famous Quotes"
+    url: "/quotes/"
