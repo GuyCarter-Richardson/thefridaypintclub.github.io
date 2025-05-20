@@ -1,32 +1,25 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>{{ page.title }} | {{ site.title }}</title>
-  <meta name="description" content="{{ site.description }}">
-  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
-</head>
-<body>
-  <header class="site-header">
-    <img src="{{ '/assets/images/FridayPintClub1.jpg' | relative_url }}" alt="Logo" class="logo" />
-    <h1 class="site-title">
-      <a href="{{ "/" | relative_url }}">{{ site.title }}</a>
-    </h1>
-    <nav class="site-nav">
-      <a href="{{ "/" | relative_url }}">Home</a> |
-      <a href="{{ "/about/" | relative_url }}">About</a> |
-      <a href="{{ "/pubs/" | relative_url }}">Pubs</a> |
-      <a href="{{ "/pints/" | relative_url }}">Pints</a> |
-      <a href="{{ "/pictures/" | relative_url }}">Pictures</a> |
-      <a href="{{ "/motivation/" | relative_url }}">Motivation</a>
-    </nav>
-  </header>
-  <main>
-    {{ content }}
-  </main>
+---
+layout: base
+---
 
-  <footer>
-    <p>&copy; {{ site.time | date: "%Y" }} — The Friday Pint Club</p>
-  </footer>
-</body>
-</html>
+<div class="intro-header"></div>
+
+<main class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
+  {% if page.before-content %}
+    <div class="before-content">
+      {% for file in page.before-content %}
+        {% include {{ file }} %}
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  {{ content }}
+
+  {% if page.after-content %}
+    <div class="after-content">
+      {% for file in page.after-content %}
+        {% include {{ file }} %}
+      {% endfor %}
+    </div>
+  {% endif %}
+</main>
