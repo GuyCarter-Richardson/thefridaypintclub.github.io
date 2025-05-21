@@ -1,14 +1,38 @@
 ---
 layout: page
-title: Nonsensical Quotes
-subtitle: Real things we actually said (unfortunately)
+title: Memes
+subtitle: The memes produced during the weekly call for pints
 ---
 
-### Welcome to the Wall of Wit 🍻
+### Welcome to the Wall of Memes 🍻
 
 Whether sparked by one too many pints or just pure genius, these are the quotes that made us laugh, question reality, or immediately regret saying them out loud.
 
 Some are hilarious, others confusing, and a few… well, we’re still trying to decode them.
+
+---
+
+### Recent Calls to Pint
+
+<div class="pub-grid">
+  <div class="pub-card">
+    <img src="{{ '/assets/img/meme1.jpeg' | relative_url }}" alt="Pint in Hand">
+    <h4>When in doubt</h4>
+    <p>March 25</p>
+  </div>
+
+  <div class="pub-card">
+    <img src="{{ '/assets/img/meme2.jpeg' | relative_url }}" alt="Pub Banter">
+    <h4>Logical</h4>
+    <p>April 25</p>
+  </div>
+
+  <div class="pub-card">
+    <img src="{{ '/assets/img/meme3.jpeg' | relative_url }}" alt="The Classic Table Shot">
+    <h4>Steve Jobs</h4>
+    <p>May 25.</p>
+  </div>
+</div>
 
 ---
 
@@ -25,7 +49,7 @@ Some are hilarious, others confusing, and a few… well, we’re still trying to
 
 ---
 
-### Heard Something Brilliant?
+### Heard Something Wonderful?
 
 If you overhear (or say) something that deserves a spot on this page, make sure to tell the unofficial Quote Collector™ or email it in with context, if any exists.
 

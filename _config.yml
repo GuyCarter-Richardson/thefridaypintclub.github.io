@@ -23,7 +23,8 @@ navbar-links:
   About: "about"
   Events: "events"
   Recent Pints: "recentPints"
-  Nonsensical Quotes: "nonsensical-quotes"
+  Recent Pubs: "recentPubs"
+  Memes: "memes"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
