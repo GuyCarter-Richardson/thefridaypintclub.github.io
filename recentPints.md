@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Photos
+title: Recent Pints
 subtitle: Evidence that we do, in fact, go to the pub
 ---
 
@@ -16,9 +16,12 @@ Here you'll find a collection of snapshots from our weekly meetings, commemorati
 
 _Just a few scenes from our ongoing adventure into the art of pub-going:_
 
-![Pint in Hand]({{ '/assets/img/FridayPintClub3.jpg' | relative_url }})
-![Pub Banter]({{ '/assets/img/pint1.jpg' | relative_url }})
-![The Classic Table Shot]({{ '/assets/img/member1.jpg' | relative_url }})
+<div class="photo-grid">
+  <img src="{{ '/assets/img/FridayPintClub3.jpg' | relative_url }}" alt="Pint in Hand">
+  <img src="{{ '/assets/img/pint1.jpg' | relative_url }}" alt="Pub Banter">
+  <img src="{{ '/assets/img/member1.jpg' | relative_url }}" alt="The Classic Table Shot">
+  <img src="{{ '/assets/img/margarona.jpg' | relative_url }}" alt="Another Round">
+</div>
 
 > _“I don’t remember this photo being taken.” — Everyone_
 
