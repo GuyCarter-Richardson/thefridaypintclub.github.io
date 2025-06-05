@@ -47,6 +47,11 @@ Some are hilarious, others confusing, and a few… well, we’re still trying to
 > _"Call _, I need _"_  
 > — J. S., unknown
 
+> "The two rules for answering referee comments:  <br>
+> 1: The referee is always right  <br>
+> 2: If the referee is wrong, see rule #1"  <br>
+> — Dobaczewski, J, 2025
+
 ---
 
 ### Heard Something Wonderful?
