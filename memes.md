@@ -32,6 +32,12 @@ Some are hilarious, others confusing, and a few… well, we’re still trying to
     <h4>Steve Jobs</h4>
     <p>May 25.</p>
   </div>
+
+  <div class="pub-card">
+    <img src="{{ '/assets/img/meme4.jpeg' | relative_url }}" alt="The Classic Table Shot">
+    <h4>Dodge</h4>
+    <p>June 25.</p>
+  </div>
 </div>
 
 ---
